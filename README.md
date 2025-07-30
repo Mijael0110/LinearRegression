@@ -32,5 +32,3 @@ Estas variables permiten entrenar un modelo que estima el precio medio de una vi
 - Matplotlib y Seaborn (visualización)
 - GeoPandas (opcional para mapas geográficos)
 
-## Estructura del Repositorio
-
